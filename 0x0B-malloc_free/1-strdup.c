@@ -5,7 +5,6 @@
 #include "main.h"
 
 /**
-
 * _strdup - duplicate to new memory space location
 
 * @str: char

@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 /**
-
 * argstostr - main entry
 
 * @ac: int input

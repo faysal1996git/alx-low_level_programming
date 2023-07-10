@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 /**
-
 * str_concat - get ends of input and add together for size
 * @s1: input one to concat
 
